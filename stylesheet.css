@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    height: inherit;
+}
+
+.wrapper{
+    position: absolute;
+    left: 50em;
+    right: 50em;
+    top: 20em;
+    bottom: 20em;
+
+}
+form{
+    display: flex;
+}
+input{
+    margin: auto;
+}
+
+
